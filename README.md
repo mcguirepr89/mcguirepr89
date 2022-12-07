@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcguirepr89
 - 👀 I’m interested in all things Linux, especially Raspberry Pis
-- 🌱 I’m currently working on BirdNET-Pi
+- 🌱 I’m currently working on `timelapse`
 - 📫 How to reach me: mcguirepr89@gmail.com
 
 <!---

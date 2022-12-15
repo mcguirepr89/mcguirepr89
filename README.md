@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Linux, especially Raspberry Pis
 - 🌱 I’m currently working on `timelapse`
 - 📫 How to reach me: mcguirepr89@gmail.com
-
+- Rebooting to solve a problem is like taking a shower every time you need a napkin.
 <!---
 mcguirepr89/mcguirepr89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
